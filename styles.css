@@ -1,11 +1,14 @@
-body {background-color: #000000;}
+body {background-color: #000000;
+  font-family: 'Courier New', Courier, monospace;}
 hr {
   border-style: none;
 border-top: 5px dotted #282A3A;
 width: 10%;
 }
-img{width: 100%;}
-h1{
+img{width: 100%;
+  
+}
+h1{ 
     color: #735F32;
 }
 h2 {color: #735F32;}
@@ -13,4 +16,6 @@ h3 {color: #735F32;}
 p {color: #C69749;}
 table {color:#C69749}
 ul {color:#C69749}
-form {color:#C69749}
+form {
+  color:#C69749;
+}
